@@ -1,0 +1,5 @@
+resource_group_name = "my-resource-group"
+location = "East US"
+app_service_plan_name = "my-app-service-plan"
+web_app_name = "my-web-app"
+sku = "S1"
